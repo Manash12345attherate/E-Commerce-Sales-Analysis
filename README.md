@@ -1,15 +1,15 @@
-# 🛒 E-Commerce Sales & Customer Behavior Analysis
+# E-Commerce Sales & Customer Behavior Analysis
 
-## 📌 Overview
+## Overview
 This project analyzes an E-Commerce Superstore dataset using Python to identify sales trends, customer behavior, product performance, and profitability through Exploratory Data Analysis (EDA).
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Plotly
 - Jupyter Notebook
 
-## 📊 Analysis Performed
+## Analysis Performed
 - Data Cleaning
 - Monthly Sales Analysis
 - Monthly Profit Analysis
@@ -18,10 +18,10 @@ This project analyzes an E-Commerce Superstore dataset using Python to identify 
 - Sales vs Profit Analysis
 - Data Visualization
 
-## 📁 Dataset
+## Dataset
 - Sample Superstore Dataset
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
 - Data Visualization
